@@ -15,35 +15,6 @@ Currently pursuing the **CompTIA SecAI+** certification and building toward role
 
 ---
 
-## Skills & Tools
-
-**Vulnerability Management**
-`CVE/CVSS Triage` `Risk Prioritization` `Patch Management Workflows`
-
-**AI & LLM Security**
-`Prompt Injection` `Jailbreaking` `RAG Poisoning` `OWASP LLM Top 10` `MITRE ATLAS` `Guardrail Design` `LLM Red Teaming`
-
-**Threat Intelligence**
-`MITRE ATT&CK` `IOC Analysis` `Threat Actor Profiling` `Open-Source Intelligence (OSINT)`
-
-**SIEM & Log Analysis**
-`Log Correlation` `Anomaly Detection` `Incident Triage`
-
-**Scripting & Automation**
-`Python` `Bash` `Security Workflow Automation`
-
----
-
-## Featured Projects
-
-**AI Security Lab** — Hands-on documentation of LLM attack techniques and defensive controls. Covers prompt injection, jailbreaking, RAG poisoning, and guardrail implementation in Python.
-
-**Vulnerability Management** — Scripts and tooling to support vuln data aggregation, CVSS-based prioritization, and reporting workflows.
-
-**CTI Intelligence Feed** — An AI-assisted project for aggregating and summarizing threat intelligence from public sources.
-
----
-
 ## Connect
 
 Feel free to reach out or follow along as the projects evolve.
